@@ -73,10 +73,10 @@ The model that is used is the familiar model from the lessons, and as implemente
 the relationship between state at time `t0` and time `t1` is as follows:
 
 <p align="left">
-<img src="images/KinematicEquations.png" height=150 />
+<img src="images/KinematicEquations.png" height=200 />
 </p>
 
-These equations are used to predict future state of car.  This is done within the context of the `Solve`
+These equations are used to predict future states of car.  This is done within the context of the `Solve`
 method, whereupon the solver optimizes the resulting system of equations with respect to the cost 
 function that we define.  There is more information about these ideas throughout the rest of this
 document.
