@@ -70,7 +70,7 @@ interpolated trajectory.
 ### Kinematic Model
 
 The model that is used is the familiar model from the lessons, and as implemented in the quiz.  To recap,
-the relationship between state at time `t0` and time `t1` is as follows:
+the relationship between state at time `t` and time `t+1` is as follows:
 
 <p align="left">
 <img src="images/KinematicEquations.png" height=200 />
